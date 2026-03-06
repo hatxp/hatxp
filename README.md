@@ -1,4 +1,4 @@
-# Olá, mundo! Eu sou o [Seu Nome] 👋
+# Olá, mundo! Eu sou o Kauã Calistro 👋
 
 ### 🚀 Transformando café e curiosidade em software de impacto.
 
@@ -38,8 +38,7 @@ Tecnologia é construída por pessoas e para pessoas. Além dos commits, valoriz
 
 Sempre aberto a trocar ideias sobre código, arquitetura de software ou a próxima inovação no mercado SaaS.
 
-* **LinkedIn:** [Sua URL do LinkedIn](https://linkedin.com/in/seuperfil)
-* **Discord:** `[Seu Usuário do Discord]`
-* **Portfólio:** [Seu Site ou Link Tree](https://seusite.com)
+* **LinkedIn:** [Sua URL do LinkedIn](https://br.linkedin.com/in/kalistroo)
+* **Discord:** `[hatxp]`
 
 > *"A melhor forma de prever o futuro é construí-lo."*
