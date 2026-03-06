@@ -12,14 +12,20 @@ Tenho direcionado meus estudos para a construção de aplicações modernas. Atu
 
 ---
 
-## 🛠️ Stack e Tecnologias
+## 🛠️ Stack e Nível de Proficiência
 
-Embora meu aprendizado seja contínuo e agnóstico, tenho focado minha energia em dominar o seguinte ecossistema:
+Foco em dominar o ecossistema moderno de desenvolvimento. Abaixo, meu radar técnico atual:
 
-* **Linguagens & Backend:** TypeScript, Node.js
-* **Frontend & UI:** React, Tailwind CSS (Foco em interfaces limpas e minimalistas)
-* **Dados & Performance:** Prisma ORM, Redis
-* **Engenharia:** Clean Architecture, SOLID, Modelagem Multi-tenant (SaaS)
+| Tecnologia | Status de Conhecimento | Nível |
+| :--- | :--- | :--- |
+| ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | `█████████░` **90%** | Avançado |
+| ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | `█████████░` **90%** | Avançado |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | `████████░░` **80%** | Intermediário-Avançado |
+| ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) | `████████░░` **80%** | Intermediário-Avançado |
+| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | `████████░░` **80%** | Avançado |
+| ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | `██████░░░░` **60%** | Intermediário |
+
+> *Conhecimentos complementares em Tailwind CSS, Prisma ORM, Redis, Clean Architecture e princípios SOLID.*
 
 ---
 
@@ -38,7 +44,7 @@ Tecnologia é construída por pessoas e para pessoas. Além dos commits, valoriz
 
 Sempre aberto a trocar ideias sobre código, arquitetura de software ou a próxima inovação no mercado SaaS.
 
-* **LinkedIn:** [Sua URL do LinkedIn](https://br.linkedin.com/in/kalistroo)
+* **LinkedIn:** [Conecte-se Comigo](https://br.linkedin.com/in/kalistroo)
 * **Discord:** `[hatxp]`
 
 > *"A melhor forma de prever o futuro é construí-lo."*
